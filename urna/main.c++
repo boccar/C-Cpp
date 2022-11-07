@@ -26,6 +26,7 @@ int main()
     cout << "4. Nulo\n";
     cout << "5. Branco\n";
     cout << endl;
+    
     do
     {
         cout << "Entre com seu voto:\n";
