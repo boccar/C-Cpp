@@ -120,7 +120,5 @@ int main()
         }
     }
 
-    sleep(3s);
-    
     return 0;
 }
